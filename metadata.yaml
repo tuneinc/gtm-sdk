@@ -2,6 +2,8 @@ homepage: "https://www.tune.com"
 documentation: "https://developers.tune.com/javascript-sdk/javascript-sdk"
 versions:
   # Latest version - be aware that 'changeNotes' are visible to customers!
+  - sha: 9347419ee6e91524258a7dae9a887fa62df4b999
+    changeNotes: Updated name and description in line with new help documentation on tune.com
+  # Previous versions below
   - sha: 670151ff5d7f23c243cafb2030fab3345ce7a678
     changeNotes: Initial release
-  # Previous versions below
